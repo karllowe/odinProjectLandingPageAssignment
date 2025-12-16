@@ -8,7 +8,7 @@ body {
 .hero {
     background-color: #1F2937;
     color: white;
-    padding:12px 24px;
+    padding:12px 80px 64px 80px;
 }
 
 .mainHero{
@@ -49,7 +49,7 @@ body {
     justify-content: space-between;
     align-items: left;
     flex: 1 1 0;
-    margin-right: 24px;;
+    margin-right: 36px;
 }
 .mainHero .Right {
     display: flex;
