@@ -74,5 +74,6 @@ body {
     background-color: #3882F6;
     color: white;
     padding: 4px 4px;
-    border-radius: 10px;
+    border-radius: 6px;
+    border: none;
 }
