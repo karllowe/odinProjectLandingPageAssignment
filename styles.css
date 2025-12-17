@@ -116,3 +116,25 @@ h2 {
 .galleryCard p {
     color: black;
 }
+
+.quoteSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 24px 140px;
+}
+.quoteSection p {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    text-align: left;
+    font-style: italic;
+}
+#author {
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 1em;
+    font-style: normal;
+}
