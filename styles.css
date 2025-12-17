@@ -2,8 +2,8 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
-    font-family: 
-}
+    font-family: serif;
+ }
 
 .hero {
     background-color: #1F2937;
