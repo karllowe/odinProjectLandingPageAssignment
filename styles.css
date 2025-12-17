@@ -13,6 +13,8 @@ body {
 
 .mainHero{
     margin: 24px 20px;
+    display: flex;
+    justify-content:space-between;
 }
 
 .header {
@@ -39,10 +41,7 @@ body {
     color: #E5E7EB;
     font-size: 18px;
 }
-.mainHero{
-    display: flex;
-    justify-content:space-between;
-}
+
 .mainHero .Left {
     display: flex;
     flex-direction: column;
