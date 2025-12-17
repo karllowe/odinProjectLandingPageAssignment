@@ -76,3 +76,24 @@ body {
     border-radius: 6px;
     border: none;
 }
+
+.gallerySection {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+}
+
+.galleryRow {
+    display: flex;
+    justify-content: space-around;
+}
+
+.rectangle {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #3882F6;
+}
